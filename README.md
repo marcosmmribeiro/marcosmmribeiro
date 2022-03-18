@@ -1,7 +1,7 @@
 ### Olá! Sou Marcos M Ribeiro 👋
 
 - 🔭 Hoje trabalho na Empresa Rede Dom Pedro de Postos
-- 🌱 Estudando Front-End, Java Script, FrameWork na DankiCode
+- 🌱 Cursando Front-End, Java Script, FrameWork na DankiCode
 - 👯 Contate-me no e-mail: max_ribeiro2013@hotmail.com
 - 🐱‍🚀 Linkedin www.linkedin.com/in/marcos-ribeiro-9243b1232
 - 😎 intagram https://www.instagram.com/mrmarcos_mribeiro/
